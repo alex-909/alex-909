@@ -1,3 +1,5 @@
 - 👋 Hi, I’m @alex-909
-- 🚀 I'm currently working on: MlAgents in Unity ()
-- 🤖 My languages at the moment are: C#, Java, Python  
+- I spend most of my time working on small projects Ipersonally enjoy, mostly games.
+- 🚀 I'm currently working on: TankGame with Unity/Mirror
+- 🤖 Languages: C#, Java, Python
+- 🦾 Tools I use: Unity, VS2019, VSCode, IntellijIDEA
