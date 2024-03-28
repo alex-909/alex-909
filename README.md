@@ -1,4 +1,1 @@
 - 👋 Hi, I’m @alex-909
-- 🤑future CNP Millionaire
-- I work on small projects I personally enjoy, often game related stuff
-- 🤖 Languages i like: C#, Python, JS
